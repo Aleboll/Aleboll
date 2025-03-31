@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Booking Helper App](https://github.com/Aleboll/BookingHelper)
 
-- 🌱 I’m currently learning **Java frameworks and Docker platform**
+- 🌱 I’m currently learning **Java frameworks and Docker platform** and Japanese
 
 - 📫 How to reach me **alleboll@icloud.com**
 

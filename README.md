@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleboll&show_icons=true&locale=en" alt="aleboll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleboll&" alt="aleboll" /></p>
+
+<p><img align="center" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=PwCX19" /></p>
+

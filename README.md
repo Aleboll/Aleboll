@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/allabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allabay" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/409734180109418496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="409734180109418496" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/allabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/586b3e45fe0af299775436f2e8ea2a6ed5cdb8c6/resources/LeetCode.svg" alt="allabay" height="35" width="45" /></a>
+<a href="https://discordapp.com/users/409734180109418496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="409734180109418496" height="40" width="50" /></a>
 <a href="https://t.me/hxxxxq" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="409734180109418496" height="30" width="30" /></a>
 </p>
 

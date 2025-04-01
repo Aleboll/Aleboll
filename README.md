@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Booking Helper App](https://github.com/Aleboll/BookingHelper)
 
-- 🌱 I’m currently learning **Java frameworks and Docker platform** and Japanese
+- 🌱 I’m currently learning **Java frameworks and Docker platform** 
 
 - 📫 How to reach me **alleboll@icloud.com**
 
@@ -25,5 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleboll&" alt="aleboll" /></p>
 
-<p><img align="center" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=PwCX19" /></p>
 

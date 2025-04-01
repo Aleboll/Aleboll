@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A beginner backend developer from Russia</h3>
+<h3 align="center">A junior backend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleboll&label=Profile%20views&color=0e75b6&style=flat" alt="aleboll" /> </p>
 
